@@ -44049,7 +44049,7 @@
                 children: (0,
                 Zk.jsx)("h6", {
                     className: "text-center text-white",
-                    children: "BATCH-3-MERN PROJECT"
+                    children: "MERN PROJECT"
                 })
             })
         };
@@ -44269,7 +44269,7 @@
                             Zk.jsx)(aS, {
                                 className: "navbar-brand",
                                 to: "/",
-                                children: "Expense Management App"
+                                children: "Financial Management App"
                             }), (0,
                             Zk.jsxs)("ul", {
                                 className: "navbar-nav ms-auto mb-2 mb-lg-0",
@@ -46840,7 +46840,7 @@
                         className: "row container",
                         children: [(0,
                         Zk.jsx)("h1", {
-                            children: "Expenses Managment System - MERN STACK"
+                            children: "Financial Managment System - MERN STACK"
                         }), (0,
                         Zk.jsx)("div", {
                             className: "col-md-6",
